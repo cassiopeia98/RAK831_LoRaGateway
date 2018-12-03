@@ -1,3 +1,7 @@
+#2018-12-3 note: This project is based on a very old version of SX1301 driver and packet_forwarder, so we'll not maintain it. There is a new project for RAK831 + Raspberry Pi which is based on the latest SX1301 driver lora_gateway v5.0.1 and semtech packet_forwarder v4.0.1. It is an open source project too, and you can find its source code here: 
+https://github.com/RAKWireless/RAK831-LoRaGateway-RPi
+
+
 # Description:
 #	Installation procedure for FTDI SPI-over-USB dependencies
 
